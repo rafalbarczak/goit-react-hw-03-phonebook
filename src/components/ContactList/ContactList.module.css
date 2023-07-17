@@ -1,0 +1,9 @@
+.list__item {
+  font-size: 20px;
+}
+.deleteBtn {
+  margin-left: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  border-color: lightgray;
+}
